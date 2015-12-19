@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-19T22:04:00.989Z'
-dateModified: '2015-12-19T22:03:57.394Z'
+datePublished: '2015-12-19T21:59:24.136Z'
+dateModified: '2015-12-19T21:59:19.992Z'
 author: []
 title: Rafael Cruz
 sourcePath: _posts/2015-12-19-rafael-cruz.md
@@ -23,8 +23,8 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![Rafael Cruz, father of presidential candidate Ted Cruz stopped by the KDWN studios to sit down with us for one-on-one interview.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/601700de4cd0a02294dac696868c68b28b46775e.png)
+![Rafael, the father of presidential candidate Ted Cruz stopped by the KDWN studios to sit down with us for one-on-one interview.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d0593dc-1f33-46c7-952d-ebee21bb89cf.png)
 
 # Rafael Cruz
 
-Rafael Cruz, father of presidential candidate Ted Cruz stopped by the KDWN studios to sit down with us for one-on-one interview.
+Rafael, the father of presidential candidate Ted Cruz stopped by the KDWN studios to sit down with us for one-on-one interview.
