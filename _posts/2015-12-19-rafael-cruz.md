@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Rafael Cruz
-datePublished: '2015-12-19T21:36:59.320Z'
-dateModified: '2015-12-19T21:36:55.666Z'
+datePublished: '2015-12-19T21:41:43.137Z'
+dateModified: '2015-12-19T21:41:38.460Z'
 author: []
 title: 'Rafael Cruz '
 sourcePath: _posts/2015-12-19-rafael-cruz.md
@@ -25,4 +25,4 @@ _type: Article
 ---
 ![We interview Rafael Cruz for Walk the Talk](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e5f18108f5754ff0ada987d6486b2a9230b17c97.png)
 
-# Rafael Cruz
+#
