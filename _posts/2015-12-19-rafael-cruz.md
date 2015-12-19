@@ -1,20 +1,28 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:38853ee1-a5d4-4887-b5bb-aa974128508c'
+inLanguage: null
+starred: false
+keywords: []
 description: Rafael Cruz
+datePublished: '2015-12-19T21:36:59.320Z'
+dateModified: '2015-12-19T21:36:55.666Z'
 author: []
-datePublished: '2015-12-19T14:55:32.752Z'
-publisher:
-  domain: ''
-  name: ''
 title: 'Rafael Cruz '
-dateModified: '2015-12-19T14:53:40.625Z'
 sourcePath: _posts/2015-12-19-rafael-cruz.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: rafael-cruz/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
 ---
-# Rafael Cruz ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/952eabcb-1570-44cf-bf5e-f235f14a165c.png)
+![We interview Rafael Cruz for Walk the Talk](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e5f18108f5754ff0ada987d6486b2a9230b17c97.png)
+
+# Rafael Cruz
