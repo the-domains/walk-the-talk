@@ -1,21 +1,27 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:b8cc3576-3c58-4239-b54f-00908f922425'
+inLanguage: null
+starred: false
+keywords: []
 description: ''
+datePublished: '2015-12-19T11:07:46.311Z'
+dateModified: '2015-12-19T11:07:39.737Z'
 author: []
-datePublished: '2015-12-19T11:04:23.731Z'
-publisher:
-  domain: ''
-  name: ''
 title: Raphael Cruz
-dateModified: '2015-12-19T11:01:26.841Z'
 sourcePath: _posts/2015-12-19-raphael-cruz.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: raphael-cruz/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
 ---
 # Raphael Cruz
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2970bda-ddb5-49c4-8473-29ebcf5ac204.png)
+![Caption](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6bcd2cfff2411e05176da23aab09e2be4f70122e.png)
