@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Stream previous broadcasts of Walk the Talk
-datePublished: '2015-12-19T06:01:08.178Z'
-dateModified: '2015-12-19T05:49:41.522Z'
+datePublished: '2015-12-19T06:28:54.100Z'
+dateModified: '2015-12-19T06:01:08.178Z'
 title: Stream Show
 author: []
 authors: []
