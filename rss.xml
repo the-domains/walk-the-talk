@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Walk the Talk]]></title>
         <description><![CDATA[Walk the Talk]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/walk-the-talk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Dec 2015 05:34:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 19 Dec 2015 05:35:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/walk-the-talk/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About | Cruz for President]]></title>
+            <description><![CDATA[<article><h1>About | Cruz for President</h1><p>About Throughout his entire life, Ted Cruz has proven to be a passionate and effective fighter for limited government, economic growth, and the Constitution. Ted's calling to public service has been inspired by his first-hand observation of the pursuit of freedom and opportunity in America.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3afee080b27032063cf2e4d5f97514e036f3ff6e.jpg"></article>]]></description>
+            <link>https://www.tedcruz.org/about/</link>
+            <guid isPermaLink="false">5a681e3a-55fb-451d-84ed-63b31794c9be</guid>
+            <pubDate>Sat, 19 Dec 2015 05:34:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[About Brigitte Gabriel]]></title>
             <description><![CDATA[<article><h1>About Brigitte Gabriel</h1><p>Brigitte Gabriel is the Founder and President of Act for America. Ms. Gabriel is one of the leading national security experts in the world -providing information and analysis on the rise of Islamic terrorism. Ms. Gabriel lectures nationally and internationally about national security and current affairs. Her expertise is sought...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db44d4a529c2921d0087035e2fc6027f9d86820f.jpg"></article>]]></description>
