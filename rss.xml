@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Walk the Talk]]></title>
+        <description><![CDATA[Walk the Talk]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 19 Dec 2015 06:02:31 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About | Cruz for President]]></title>
+            <description><![CDATA[<article><h1>About | Cruz for President</h1><p>About Throughout his entire life, Ted Cruz has proven to be a passionate and effective fighter for limited government, economic growth, and the Constitution. Ted's calling to public service has been inspired by his first-hand observation of the pursuit of freedom and opportunity in America.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a70581e4b8ca5792b17027d207e90581992fc08c.jpg"></article>]]></description>
+            <link>https://www.tedcruz.org/about/</link>
+            <guid isPermaLink="false">f1b17f25-d072-458e-a76b-829c36c91010</guid>
+            <pubDate>Sat, 19 Dec 2015 06:02:31 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
