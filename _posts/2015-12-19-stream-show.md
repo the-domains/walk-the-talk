@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Stream previous broadcasts of Walk the Talk
-datePublished: '2015-12-19T07:07:37.213Z'
-dateModified: '2015-12-19T07:07:28.145Z'
+datePublished: '2015-12-19T07:10:44.902Z'
+dateModified: '2015-12-19T07:10:41.231Z'
 title: Stream Show
 author: []
 sourcePath: _posts/2015-12-19-stream-show.md
