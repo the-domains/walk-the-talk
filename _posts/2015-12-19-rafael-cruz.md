@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-19T22:02:09.374Z'
-dateModified: '2015-12-19T22:02:05.177Z'
+datePublished: '2015-12-19T22:04:00.989Z'
+dateModified: '2015-12-19T22:03:57.394Z'
 author: []
 title: Rafael Cruz
 sourcePath: _posts/2015-12-19-rafael-cruz.md
