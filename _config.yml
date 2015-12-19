@@ -1,6 +1,6 @@
 name: Walk the Talk
 favicon: null
-layout_spectrum: 0.9830770131666213
+layout_spectrum: 0.74932
 typography_spectrum: 0.5694764896761626
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#ffc900'
-    - '#ff0000'
-    - '#534f4f'
-    - '#ffffff'
+    - '#f6f1ed'
+    - '#963019'
+    - '#16174f'
+    - '#667467'
+    - '#afb1a9'
   brandStrength: 0.2591002485714853
   lightness: 0.5878120826091617
   saturation: 0.9246931076049805
