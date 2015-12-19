@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Stream live or previous broadcasts of Walk the Talk
-datePublished: '2015-12-19T07:31:35.885Z'
-dateModified: '2015-12-19T07:31:30.589Z'
+datePublished: '2015-12-19T07:46:13.546Z'
+dateModified: '2015-12-19T07:46:10.365Z'
 title: "Stream\_Live Online"
 author: []
 sourcePath: _posts/2015-12-19-stream-show.md
@@ -25,7 +25,7 @@ _type: Article
 # [Stream Live Online][0]
 
 9:00am Saturday Mornings on AM 720 KDWN
-![Stream Walk the Talk live on AM 720 KDWN](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5095455-05f7-4896-a62e-e5ef19f5c565.png)
+![Stream Walk the Talk live on AM 720 KDWN](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e14ae13e4e1b6b811970172c511ffedd1883ae30.png)
 
 # **_Past episodes of Walk the Talk coming soon!_**
 
