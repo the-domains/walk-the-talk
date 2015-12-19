@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Walk the Talk]]></title>
-        <description><![CDATA[Walk the Talk]]></description>
-        <link>https://thegrid.ai/walk-the-talk/</link>
+        <title><![CDATA[Walk the Talk with Michele Fiore & Brian Wilson]]></title>
+        <description><![CDATA[Walk the Talk with Michele Fiore & Brian Wilson]]></description>
+        <link>http://walkthetalknv.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Dec 2015 06:05:13 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/walk-the-talk/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 19 Dec 2015 06:28:02 GMT</lastBuildDate>
+        <atom:link href="http://walkthetalknv.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About Brigitte Gabriel]]></title>
-            <description><![CDATA[<article><h1>About Brigitte Gabriel</h1><p>Brigitte Gabriel is the Founder and President of Act for America. Ms. Gabriel is one of the leading national security experts in the world -providing information and analysis on the rise of Islamic terrorism. Ms. Gabriel lectures nationally and internationally about national security and current affairs. Her expertise is sought...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/22a243b02f62de0947891af8694ce12ad315b2ee.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>About Brigitte Gabriel</h1><p>Brigitte Gabriel is the Founder and President of Act for America. Ms. Gabriel is one of the leading national security experts in the world -providing information and analysis on the rise of Islamic terrorism. Ms. Gabriel lectures nationally and internationally about national security and current affairs. Her expertise is sought...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a4425120ec8e5e0fbcca2938fcc5c603874ba344.jpg"></article>]]></description>
             <link>http://www.actforamerica.org/get-the-facts/about-act/about-brigitte-gabriel</link>
             <guid isPermaLink="false">97054c25-4da7-4400-9215-a7ac915db1d2</guid>
-            <pubDate>Sat, 19 Dec 2015 06:05:12 GMT</pubDate>
+            <pubDate>Sat, 19 Dec 2015 06:26:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[About | Cruz for President]]></title>
-            <description><![CDATA[<article><h1>About | Cruz for President</h1><p>About Throughout his entire life, Ted Cruz has proven to be a passionate and effective fighter for limited government, economic growth, and the Constitution. Ted's calling to public service has been inspired by his first-hand observation of the pursuit of freedom and opportunity in America.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e19679f58935be6a12030bff3bee75685f2aa904.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>About | Cruz for President</h1><p>About Throughout his entire life, Ted Cruz has proven to be a passionate and effective fighter for limited government, economic growth, and the Constitution. Ted's calling to public service has been inspired by his first-hand observation of the pursuit of freedom and opportunity in America.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3afee080b27032063cf2e4d5f97514e036f3ff6e.jpg"></article>]]></description>
             <link>https://www.tedcruz.org/about/</link>
             <guid isPermaLink="false">f1b17f25-d072-458e-a76b-829c36c91010</guid>
-            <pubDate>Sat, 19 Dec 2015 06:02:31 GMT</pubDate>
+            <pubDate>Sat, 19 Dec 2015 06:27:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
