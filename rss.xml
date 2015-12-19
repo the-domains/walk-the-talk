@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Walk the Talk with Michele Fiore & Brian Wilson]]></title>
         <description><![CDATA[Walk the Talk with Michele Fiore & Brian Wilson]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://walkthetalknv.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Dec 2015 10:40:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 19 Dec 2015 10:41:17 GMT</lastBuildDate>
+        <atom:link href="http://walkthetalknv.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ted Cruz for President]]></title>
+            <description><![CDATA[<article><h1>Ted Cruz for President</h1><p>Please, rank these nine issues in order of importance to you, with 1 being the most important and 9 being the least. Are you a Courageous Conservative? It'll take a new generation of courageous conservatives to reignite the promise of America, restore our Constitution, and bring back morning in America.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/04d02b6ea087e213646595ae94035cdefb3b62f8.png"></article>]]></description>
+            <link>https://www.tedcruz.org/</link>
+            <guid isPermaLink="false">75a68797-76b1-43e4-828b-f016f1a97852</guid>
+            <pubDate>Sat, 19 Dec 2015 10:41:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Stream Live Online]]></title>
-            <description><![CDATA[<article><h1>Stream Live Online</h1><p>Stream Walk the Talk live on AM720 KDWN</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d066114d61a8eb71808262dba16e7fa397d9b9d.png"></article>]]></description>
-            <link>undefinedstream-live-online/index.html</link>
+            <description><![CDATA[<article><h1>Stream Live Online</h1><p>Stream Walk the Talk live on AM720 KDWN</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cb64e67cb56200f8d6033da00ca12a4955c3a476.png"></article>]]></description>
+            <link>http://walkthetalknv.com/stream-live-online/index.html</link>
             <guid isPermaLink="false">cb2ae0c1-3a1d-4bd6-aeb3-b92b2e8984bf</guid>
             <pubDate>Sat, 19 Dec 2015 10:40:27 GMT</pubDate>
         </item>
