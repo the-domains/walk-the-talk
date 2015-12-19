@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Raphael Cruz, father of Ted Cruz joins us in studio'
-datePublished: '2015-12-19T11:22:29.306Z'
-dateModified: '2015-12-19T11:22:22.528Z'
+datePublished: '2015-12-19T14:29:20.004Z'
+dateModified: '2015-12-19T14:29:14.369Z'
 author: []
 title: Raphael Cruz
 sourcePath: _posts/2015-12-19-raphael-cruz.md
@@ -23,4 +23,4 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![Caption](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6d590125c81a782300b8074c050292afd5f00445.png)
+![Caption](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7679d589e6587611f3b9fc1f45132be7460edf88.png)
