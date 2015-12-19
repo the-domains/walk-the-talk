@@ -2,12 +2,13 @@ name: Walk the Talk
 favicon: null
 layout_spectrum: 0.83132
 typography_spectrum: 0.5694764896761626
+title: 'Walk the Talk with Michele Fiore & Brian Wilson'
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-71412409-1
   facebook: null
   twitter: null
 opengraph:
