@@ -1,12 +1,12 @@
 ---
 description: Rafael Cruz
 author: []
-datePublished: '2015-12-19T14:53:40.625Z'
+datePublished: '2015-12-19T14:55:32.752Z'
 publisher:
   domain: ''
   name: ''
 title: 'Rafael Cruz '
-dateModified: '2015-12-19T14:45:32.306Z'
+dateModified: '2015-12-19T14:53:40.625Z'
 sourcePath: _posts/2015-12-19-rafael-cruz.md
 published: true
 inFeed: true
