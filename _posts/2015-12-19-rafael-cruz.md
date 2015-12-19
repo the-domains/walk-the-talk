@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-19T21:52:34.394Z'
-dateModified: '2015-12-19T21:52:29.472Z'
+datePublished: '2015-12-19T21:59:47.931Z'
+dateModified: '2015-12-19T21:59:44.327Z'
 author: []
 title: Rafael Cruz
 sourcePath: _posts/2015-12-19-rafael-cruz.md
@@ -23,8 +23,8 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![We interview Rafael Cruz for Walk the Talk](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e5f18108f5754ff0ada987d6486b2a9230b17c97.png)
+![Rafael, the father of presidential candidate Ted Cruz stopped by the KDWN studios to sit down with us for one-on-one interview.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d0593dc-1f33-46c7-952d-ebee21bb89cf.png)
 
 # Rafael Cruz
 
-We interview Rafael Cruz for Walk the Talk
+Rafael, the father of presidential candidate Ted Cruz stopped by the KDWN studios to sit down with us for one-on-one interview.
