@@ -1,0 +1,28 @@
+name: Walk the Talk
+favicon: null
+layout_spectrum: 0.9830770131666213
+typography_spectrum: 0.5694764896761626
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.2591002485714853
+  lightness: 0.5878120826091617
+  saturation: 0.9246931076049805
+  rhythmicContrast: 0.8893534617964178
+purpose: []
