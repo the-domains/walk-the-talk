@@ -1,12 +1,12 @@
 ---
 description: ''
 author: []
-datePublished: '2015-12-19T11:01:26.841Z'
+datePublished: '2015-12-19T11:04:23.731Z'
 publisher:
   domain: ''
   name: ''
 title: Raphael Cruz
-dateModified: '2015-12-19T10:52:26.401Z'
+dateModified: '2015-12-19T11:01:26.841Z'
 sourcePath: _posts/2015-12-19-raphael-cruz.md
 published: true
 inFeed: true
