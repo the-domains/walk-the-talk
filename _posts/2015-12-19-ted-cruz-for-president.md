@@ -16,9 +16,9 @@ keywords:
   - constitution
   - please
   - movement
-description: "Are you a Courageous Conservative? It'll take a new generation of courageous conservatives to reignite the promise of America, restore our Constitution, and bring back morning in America."
-datePublished: '2015-12-19T14:50:40.888Z'
-dateModified: '2015-12-19T14:50:33.006Z'
+description: 'December 19, 2015'
+datePublished: '2015-12-25T10:53:33.510Z'
+dateModified: '2015-12-25T10:53:26.072Z'
 author: []
 related: []
 app_links: []
