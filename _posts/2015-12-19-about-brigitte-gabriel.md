@@ -16,9 +16,9 @@ keywords:
   - warfare
   - expertise
   - fbi
-description: Brigitte Gabriel is the Founder and President of Act for America. Ms. Gabriel is one of the leading national security experts in the world -providing information and analysis on the rise of Islamic terrorism. Ms. Gabriel lectures nationally and internationally about national security and current affairs. Her expertise is sought...
-datePublished: '2015-12-19T22:05:10.980Z'
-dateModified: '2015-12-19T22:05:07.631Z'
+description: 'December 19, 2015'
+datePublished: '2015-12-25T10:52:59.055Z'
+dateModified: '2015-12-25T10:52:51.353Z'
 author: []
 related: []
 app_links: []
