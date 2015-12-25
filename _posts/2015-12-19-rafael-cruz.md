@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'December 19, 2015'
-datePublished: '2015-12-25T10:52:12.139Z'
-dateModified: '2015-12-25T10:52:06.937Z'
+datePublished: '2015-12-25T10:57:17.627Z'
+dateModified: '2015-12-25T10:57:11.803Z'
 author: []
 title: Rafael Cruz
 sourcePath: _posts/2015-12-19-rafael-cruz.md
@@ -23,8 +23,8 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![Rafael Cruz, father of presidential candidate Ted Cruz stopped by the KDWN studios to sit down with us for one-on-one interview.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/601700de4cd0a02294dac696868c68b28b46775e.png)
+![  Rafael Cruz Rafael Cruz, father of presidential candidate Ted Cruz stopped by the KDWN studios to sit down with us for one-on-one interview. Rafael Cruz  Rafael Cruz, father of presidential candidate Ted Cruz stopped by the KDWN studios for a sit down interview with Walk The Talk.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0350f3ce4d769f67f26b83a9debc7efceb833e2f.png)
 
 # Rafael Cruz
 
-Rafael Cruz, father of presidential candidate Ted Cruz stopped by the KDWN studios to sit down with us for one-on-one interview.
+Rafael Cruz, father of presidential candidate Ted Cruz stopped by the KDWN studios for a sit down interview with Walk The Talk.
