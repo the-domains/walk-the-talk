@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'December 19, 2015'
-datePublished: '2015-12-25T10:44:30.217Z'
-dateModified: '2015-12-25T10:44:22.652Z'
+datePublished: '2015-12-25T10:46:55.976Z'
+dateModified: '2015-12-25T10:46:43.880Z'
 author: []
 title: Rafael Cruz
 sourcePath: _posts/2015-12-19-rafael-cruz.md
@@ -23,7 +23,6 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-December 19, 2015
 ![Rafael Cruz, father of presidential candidate Ted Cruz stopped by the KDWN studios to sit down with us for one-on-one interview.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/601700de4cd0a02294dac696868c68b28b46775e.png)
 
 # Rafael Cruz
