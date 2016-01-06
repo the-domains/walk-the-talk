@@ -16,21 +16,21 @@ keywords:
   - click
   - inc
   - gear
-description: 'Discount Firearms USA is unlike any other firearms dealer on the web. We work hard to create an awesome experience for all in a clean, easy to navigate, and more importantly, exciting way! From easy searching by brand, caliber and more, to a sleek shopping experience, Discount Firearms USA has everything you need, and it won’t take you forever to find it! Even better – if you do need assistance, you can speak to one of our experts at our store. We’re not just a warehouse distributor; we have a real store with real experts to help ensure you get the right product from real people. Thanks for coming to see us, and we hope to show you just how awesome it is here at Discount Firearms USA!'
-datePublished: '2016-01-06T00:30:53.531Z'
-dateModified: '2016-01-06T00:30:38.597Z'
+description: 'Join us Saturday, January 9th as we broadcast Walk the Talk live from Discount Firearms on 3084 S. Highland Drive from 9-10:00am.'
+datePublished: '2016-01-06T00:33:19.776Z'
+dateModified: '2016-01-06T00:33:13.237Z'
 author: []
 related: []
 app_links: []
-title: Discount Firearms USA
+title: 'Broadcasting Live from Discount Firearms January 9th, 2016'
+sourcePath: _posts/2016-01-06-discount-firearms-usa.md
+published: true
 authors: []
 publisher:
   name: Discountfirearmsusa
   domain: discountfirearmsusa.com
   url: 'http://discountfirearmsusa.com'
   favicon: 'http://discountfirearmsusa.com/favicon.png'
-sourcePath: _posts/2016-01-06-discount-firearms-usa.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
