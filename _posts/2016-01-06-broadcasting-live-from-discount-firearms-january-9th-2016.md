@@ -17,8 +17,8 @@ keywords:
   - inc
   - gear
 description: ''
-datePublished: '2016-01-06T00:25:06.018Z'
-dateModified: '2016-01-06T00:24:57.313Z'
+datePublished: '2016-01-06T00:27:23.623Z'
+dateModified: '2016-01-06T00:27:17.156Z'
 author: []
 related: []
 app_links: []
@@ -39,4 +39,4 @@ _type: MediaObject
 
 Join us Saturday, January 9th as we broadcast Walk the Talk live from Discount Firearms on 3084 S. Highland Drive from 9-10:00am. 
 
-<article style=""><h1>Discount Firearms USA</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d5c589db00061ee7d25c7c8d2fb0df0037aa28c3.png" /></article>
+<article style=""><h1>Discount Firearms USA</h1><p>Discount Firearms USA is unlike any other firearms dealer on the web. We work hard to create an awesome experience for all in a clean, easy to navigate, and more importantly, exciting way! From easy searching by brand, caliber and more, to a sleek shopping experience, Discount Firearms USA has everything you need, and it won’t take you forever to find it! Even better – if you do need assistance, you can speak to one of our experts at our store. We’re not just a warehouse distributor; we have a real store with real experts to help ensure you get the right product from real people. Thanks for coming to see us, and we hope to show you just how awesome it is here at Discount Firearms USA!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d5c589db00061ee7d25c7c8d2fb0df0037aa28c3.png" /></article>
