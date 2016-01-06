@@ -17,8 +17,8 @@ keywords:
   - inc
   - gear
 description: 'Join us Saturday, January 9th as we broadcast Walk the Talk live from Discount Firearms on 3084 S. Highland Drive from 9-10:00am.'
-datePublished: '2016-01-06T00:37:05.997Z'
-dateModified: '2016-01-06T00:37:01.717Z'
+datePublished: '2016-01-06T00:39:02.761Z'
+dateModified: '2016-01-06T00:38:59.140Z'
 author: []
 related: []
 app_links: []
@@ -37,7 +37,7 @@ _type: MediaObject
 ---
 # 
 
-# Broadcasting Live from Discount Firearms January 9th, 2016
+Broadcasting Live from Discount Firearms January 9th, 2016
 
 Join us Saturday, January 9th as we broadcast Walk the Talk live from Discount Firearms on 3084 S. Highland Drive from 9-10:00am.
 
