@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Stream live or previous broadcasts of Walk the Talk
-datePublished: '2015-12-19T23:28:41.973Z'
-dateModified: '2015-12-19T23:28:12.727Z'
+datePublished: '2016-01-06T00:04:15.318Z'
+dateModified: '2016-01-06T00:04:11.799Z'
 title: Stream Live Online
 author: []
 sourcePath: _posts/2015-12-19-stream-show.md
