@@ -16,21 +16,21 @@ keywords:
   - click
   - inc
   - gear
-description: '"GLOCK" is a federally registered trademark of GLOCK, Inc. and is one of many trademarks owned by GLOCK, Inc. or GLOCK Ges.mbH. Neither Discount Firearms USA nor this site are affiliated in any manner with, or otherwise endorsed by, GLOCK, Inc. or GLOCK Ges.mbH.'
-datePublished: '2016-01-06T00:24:39.383Z'
-dateModified: '2016-01-06T00:24:11.836Z'
+description: ''
+datePublished: '2016-01-06T00:25:06.018Z'
+dateModified: '2016-01-06T00:24:57.313Z'
 author: []
 related: []
 app_links: []
 title: 'Broadcasting Live from Discount Firearms January 9th, 2016'
+sourcePath: _posts/2016-01-06-broadcasting-live-from-discount-firearms-january-9th-2016.md
+published: true
 authors: []
 publisher:
   name: Discountfirearmsusa
   domain: discountfirearmsusa.com
   url: 'http://discountfirearmsusa.com'
   favicon: 'http://discountfirearmsusa.com/favicon.png'
-sourcePath: _posts/2016-01-06-broadcasting-live-from-discount-firearms-january-9th-2016.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
