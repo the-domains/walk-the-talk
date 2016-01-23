@@ -16,7 +16,7 @@ keywords:
   - placid
   - libre
 description: 'Event is sponsored by RISE Resource Center, Nevada Policy Research Institute, Academica Nevada, LIBRE Initiative, and Foundation for Excellence in Education'
-datePublished: '2016-01-23T18:20:57.728Z'
+datePublished: '2016-01-23T18:20:57.730Z'
 dateModified: '2016-01-23T18:20:52.666Z'
 author: []
 related: []
