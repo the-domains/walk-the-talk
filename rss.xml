@@ -4,11 +4,18 @@
         <description><![CDATA[Walk the Talk with Michele Fiore & Brian Wilson ]]></description>
         <link>http://walkthetalknv.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Feb 2016 16:20:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2016 16:55:35 GMT</lastBuildDate>
         <atom:link href="http://walkthetalknv.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[The FBI sting that tore apart a small town]]></title>
+            <description><![CDATA[<article><h1>The FBI sting that tore apart a small town</h1><p>For generations, the people of the Four Corners region have battled the federal government over collecting and selling Native American artifacts. Then agents persuaded a local dealer to go undercover. Operation Cerberus Action was supposed to expose a lucrative trade in stolen antiquities. Instead, it tore a hole in a Utah town.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a637e64d4aba79f7a5a6bee39ff821a8f85102eb.jpg"></article>]]></description>
+            <link>http://graphics.latimes.com/utah-sting/</link>
+            <guid isPermaLink="false">8f7ccde6-8432-4346-9a41-e7647fa9c476</guid>
+            <pubDate>Sat, 26 Mar 2016 16:55:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Caucus Locator]]></title>
-            <description><![CDATA[<article><h1>Caucus Locator</h1><p>Please enter your information below. This will locate your precinct in the state voter database.</p><img src="https://vrdb2.blob.core.windows.net/images/NevadaLogo.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Caucus Locator</h1><p>Please enter your information below. This will locate your precinct in the state voter database.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/48de45af7e395dd2d786da059e66ce6b624e3847.jpg"></article>]]></description>
             <link>http://caucus.voter-science.com/home/Nevada/index</link>
             <guid isPermaLink="false">6c285873-65fd-49fe-ae8a-4a772ca33979</guid>
             <pubDate>Sat, 20 Feb 2016 16:19:12 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://walkthetalknv.com/about/index.html</link>
             <guid isPermaLink="false">ca084fbb-16c0-45f1-ace4-b0af9e2115bb</guid>
             <pubDate>Wed, 13 Jan 2016 21:44:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stream Live Online]]></title>
-            <description><![CDATA[<article><h1>Stream Live Online</h1><p>9:00am Saturday Mornings on AM720 KDWN</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f859b981f335f0bd210c11fe3e1090f3a71c3dc5.png"></article>]]></description>
-            <link>http://walkthetalknv.com/stream-live-online/index.html</link>
-            <guid isPermaLink="false">cb2ae0c1-3a1d-4bd6-aeb3-b92b2e8984bf</guid>
-            <pubDate>Wed, 06 Jan 2016 00:04:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
