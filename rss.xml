@@ -4,8 +4,15 @@
         <description><![CDATA[Walk the Talk with Michele Fiore & Brian Wilson ]]></description>
         <link>http://walkthetalknv.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Apr 2016 15:45:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2016 22:10:52 GMT</lastBuildDate>
         <atom:link href="http://walkthetalknv.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[April 16, 2016 Walk the Talk with Michele Fiore and Brian Wilson]]></title>
+            <description><![CDATA[<article><h1>April 16, 2016 Walk the Talk with Michele Fiore and Brian Wilson</h1><p>April 16, 2016 Walk the Talk with Michele Fiore and Brian Wilson Special Guests: Pete Santilli Mike Arnold</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5f9f3d486961893ad8ba05179ec77b4b7fc5457b.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=PqGjTzOCid4</link>
+            <guid isPermaLink="false">bf77377f-3734-4f37-b48f-ff1d30125518</guid>
+            <pubDate>Sat, 16 Apr 2016 22:10:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Calendar | Green Valley Range]]></title>
             <description><![CDATA[<article><h1>Calendar | Green Valley Range</h1><p>Note: There is a $20 reservation fee per seat that is applied toward the cost of the class at check-in. See our Classes page for a full list of class prices</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4f74c6b944b1caec36e537a4a88bbefb8969dc96.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>urn:uuid:42fd8647-fdba-470b-b1db-d8feca7db61d</link>
             <guid isPermaLink="false">5221d78b-a6c0-4f2e-8f86-946f6cffcac6</guid>
             <pubDate>Fri, 15 Jan 2016 02:32:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[About]]></title>
-            <description><![CDATA[<article><h1>About</h1><p>Walk the Talk is a weekly conservative radio show that takes a look inside what's really going on in Nevada politics.  Join us every Saturday at 9:00am on AM720 KDWN where we discuss current issues with our special guests, callers, and the community. Facebook: https://www.facebook.com/WalkTheTalkNV/</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3781057356cfb4e26c356ec47ebd254f2b232568.jpg"></article>]]></description>
-            <link>http://walkthetalknv.com/about/index.html</link>
-            <guid isPermaLink="false">ca084fbb-16c0-45f1-ace4-b0af9e2115bb</guid>
-            <pubDate>Wed, 13 Jan 2016 21:44:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
