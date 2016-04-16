@@ -1,29 +1,26 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://www.youtube.com/watch?v=PqGjTzOCid4'
-inLanguage: null
-starred: false
-keywords: []
-description: 'April 16, 2016 Walk the Talk with Michele Fiore and Brian Wilson Special Guests: Pete Santilli Mike Arnold'
-datePublished: '2016-04-16T22:10:51.138Z'
-dateModified: '2016-04-16T22:10:45.012Z'
 author:
   - name: Walk the Talk with Michele Fiore and Brian Wilson
     url: 'https://www.youtube.com/channel/UCckKwMA_ufIY8OrCkCSm8JQ'
     avatar: {}
 related: []
-app_links: []
-title: 'April 16, 2016 Walk the Talk with Michele Fiore and Brian Wilson'
-authors: []
 publisher:
-  name: YouTube
-  domain: www.youtube.com
   url: 'https://www.youtube.com/'
+  name: YouTube
   favicon: 'https://www.youtube.com/favicon.ico'
+  domain: www.youtube.com
+keywords: []
+description: 'April 16, 2016 Walk the Talk with Michele Fiore and Brian Wilson Special Guests: Pete Santilli Mike Arnold'
+app_links: []
+isBasedOnUrl: 'https://www.youtube.com/watch?v=PqGjTzOCid4'
+title: 'April 16, 2016 Walk the Talk with Michele Fiore and Brian Wilson'
+datePublished: '2016-04-16T22:22:46.134Z'
+dateModified: '2016-04-16T22:18:24.383Z'
 sourcePath: _posts/2016-04-16-april-16-2016-walk-the-talk-with-michele-fiore-and-brian-wi.md
 published: true
+inFeed: true
+hasPage: false
+inNav: false
 _type: VideoObject
 _context: 'http://schema.org'
 
